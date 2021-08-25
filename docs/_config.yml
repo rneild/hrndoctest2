@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
 
+title: NEH Institute materials
+description: July 2017
+baseurl: /Institute-Materials-2017
+
 collections:
   staff_members:
     people: true
